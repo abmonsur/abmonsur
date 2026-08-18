@@ -20,5 +20,11 @@ Graduate Publications:
 - IJCNLP-AACL 2025 Main: From Anger to Joy: How Nationality Personas Shape Emotion Attribution in Large Language Models
 - ACL 2025 Findings: Banstereoset: A dataset to measure stereotypical social biases in llms for bangla
 
+Undergraduate Publications:
+- A Comprehensive Investigation of the Performances of Different Machine Learning Classifiers with SMOTE-ENN Oversampling Technique and Hyperparameter Optimization for Imbalanced Heart Failure Dataset
+- Early risk prediction of cervical cancer: A machine learning approach
+- Covid-EnsembleNet: an ensemble based approach for detecting Covid-19 by utilising chest X-Ray images
+- Survival Prediction of Children Undergoing Hematopoietic Stem Cell Transplantation Using Different Machine Learning Classifiers by Performing Chi-Square Test and Hyperparameter Optimization: A Retrospective Analysis
+
 Featured Projects:
 - Saliency based image captioning
